@@ -1,7 +1,7 @@
 Portfolio Website 💼
 This is a **personal portfolio website** built to showcase my projects, skills, resume, and contact details. It serves as an online presence for recruiters, collaborators, and anyone interested in my work.
 🔗 Live Preview
-[View Portfolio](https://nihar-ux18.github.io/portfolio-web/) – hosted via GitHub Pages
+[View Portfolio](https://nihar-dev.netlify.app/) – hosted via GitHub Pages
 ---
 
 📌 Features
