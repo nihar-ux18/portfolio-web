@@ -125,10 +125,10 @@ resumeBtn.addEventListener('click', function(e) {
     e.preventDefault();
     
     // Uncomment and modify this when you have your resume file:
-    const resumeUrl = 'Nihar-Patil.pdf';
+    const resumeUrl = 'Nihar_Ganesh_Patil_Resume.pdf';
     const link = document.createElement('a');
     link.href = resumeUrl;
-    link.download = 'Nihar_Patil_Resume.pdf';
+    link.download = 'Nihar_Ganesh_Patil_Resume.pdf';
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
