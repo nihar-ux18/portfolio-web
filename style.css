@@ -654,10 +654,6 @@ section {
     transition: color 0.3s ease;
 }
 
-.social-link:hover {
-    color: #2B2B2B;
-}
-
 /* Animations */
 .fade-in {
     opacity: 0;
